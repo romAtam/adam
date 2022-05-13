@@ -4,5 +4,6 @@ let a="1";
 console.log(b+parseInt(a));
 let hs=false;
 let v=false;
-console.log(v||!hs)
+let v2=true
+console.log(v||!hs||v2);
 
